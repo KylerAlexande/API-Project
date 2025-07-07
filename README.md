@@ -6,7 +6,7 @@ This is a Python-based API integration that allows users to convert currencies u
 Technologies Used
 - Python
 - `requests` module
-- ExchangeRate API (or specify the actual API used)
+- ExchangeRate API 
 
 Features
 - User input for source and target currencies
